@@ -5,7 +5,6 @@
 
 ## [Live Preview](https://alreadytaken9.github.io/tourIndia/)
 [![Tour India Preview](./pictures/welcoming-page.png)]()
-[![Glimpse Preview](./pictures/parts-glimpse.png)](https://github.com/AlreadyTaken9/tourindia)
 
 ## Wireframe
 ![Tour India Wireframe](./pictures/wireframe-pc.png)
